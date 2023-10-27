@@ -1,7 +1,9 @@
 "use client";
 import { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
-import { useFormik } from 'Formik';
+import { useFormik } from 'formik';
+//import { Formik } from 'formik';
+
 // import { signUpSchema } from './index'
 import * as Yup from "yup";
 
