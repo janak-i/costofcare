@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import Link from 'next/Link';
+import Link from 'next/link';
 import Contactform from './Contactform'
 const Footer = () => {
     const hwfootinfo =  {
