@@ -7,7 +7,7 @@ const Contact = () => {
       title: "We’d love to hear from you",
       decription: "If you have any questions or feedback for us, please fill out the form and we will reach out to you shortly."
   }
-
+  
   return(
     <>
       <div className="HWfootForm max-w-[1140px] mx-auto">

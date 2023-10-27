@@ -1,10 +1,8 @@
 'use client'
 import React, { useState, useEffect } from 'react';
-
-import Link from 'next/Link';
 import { TbMenu2 } from 'react-icons/tb';
 import {GrClose} from 'react-icons/gr';
-
+import Link from 'next/link';
 const Header = () => {
   const [toggle, setToggle] = useState(false);
   const [isSticky, setIsSticky] = useState(false);
